@@ -6,7 +6,7 @@ I'm a Software Developer working on Fullstack apps. Currently exploring and divi
 
 ### DevEooo's GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DevEooo&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=DevEooo&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=DevEooo&theme=dark&hide_border=false)
 <p align=center>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DevEooo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </p>
